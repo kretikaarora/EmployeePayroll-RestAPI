@@ -1,3 +1,9 @@
+// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="UnitTest.cs" company="Capgemini">
+//   Copyright © 2018 Company
+// </copyright>
+// <creator Name="Kretika Arora"/>
+// --------------------------------------------------------------------------------------------------------------------
 using EmployeePayroll_RestApi;
 using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -10,7 +16,7 @@ using System.Net;
 namespace UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest
     {
         /// <summary>
         /// translates rest request to http requests for processing
